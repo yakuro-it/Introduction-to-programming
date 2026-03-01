@@ -16,3 +16,8 @@ You will need to install pillow library
 #### Automated Markers
 
 # Appendix Images:
+<img width="810" height="591" alt="image" src="https://github.com/user-attachments/assets/799e7a78-185c-47ce-8b72-1b56a19f5c9e" />
+<img width="805" height="587" alt="image" src="https://github.com/user-attachments/assets/ab1eb4f8-6e48-4df7-820a-36339a1bdac5" />
+<img width="365" height="176" alt="image" src="https://github.com/user-attachments/assets/21d63e8c-e6a3-4cfe-96b2-5bec6fca218f" />
+<img width="806" height="592" alt="image" src="https://github.com/user-attachments/assets/dd7326b0-e79d-4876-bc3f-704259b282ad" />
+
